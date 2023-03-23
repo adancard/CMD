@@ -1,0 +1,21 @@
+dir - exibe uma lista de arquivos e pastas no diretório atual.
+
+cd - muda o diretorio atual.
+
+mkdir - cria um diretorio.
+
+rmdir - remove um diretorio.
+
+cd .. - volta o diretorio.
+
+color o - mostrar todas as cores
+
+div/s - parecer que eh hacker
+______________________________
+ == / EQU = igual a
+ != / NEQ = nao eh igual
+ < / lss = maior que
+ <= / LEQ = maior ou igual a
+ > / GTR = menor que
+ => / GEQ = menor ou igual a 
+______________________________
